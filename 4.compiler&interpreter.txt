@@ -8,3 +8,4 @@ kelebihan : lintas platform, fleksibel, mudah untuk diuji
 kekurangan : butuh interpreter, lebih lambat, source code mudah diakses.
 
 teknik untuk menggabungkan compiler dan interpreter disebut teknik hybrid.
+bahasa yang menggunakan teknik htbrid adalah java, vb.net, python
