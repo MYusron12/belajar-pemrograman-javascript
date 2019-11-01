@@ -1,0 +1,15 @@
+angka atau number pada javascript
+"numbers in javascript are double-precision floating point 64-bit firmat IEE 754 values"
+
+didalam javascript tidak ada integer, yang ada hanya bilangan pecahan. ukuran angka pada javascript ada 64-bit atau 2pangkat64 atau 8x10pangkat18 atau 18446744073709551616. tapi angka tersebut tidak bisa dipakai semua.
+
+jenis angka yang disimpana di javascript
+-angka tanpa desimal
+    -akurat sampai 15digit
+-angka dengan desimal
+-eksponen (bilanga sangat besar atau kecil)
+-bilangan negative
+-angka spesial
+    -invinity
+    -minus invinity
+    -nan (not a number)

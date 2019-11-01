@@ -1,0 +1,19 @@
+lingkungan pengembangan / development environment
+adalah sebuah tools untuk menuliskan program kita.
+setiap webbrowser memiliki interpreter untuk javascript
+
+cara berinteraksi dengan javascript
+1.console dibrowser
+-menuliskan perintah javascript langsung diconsole
+    alert('hello world');
+-bisa mengetahui error pada halaman webbrowser
+-untuk mendebug
+
+2.menuliskan perintah pada html dengan tag 
+<script>
+alert('hello world');
+</script>
+atau
+<script href="..."></script>
+
+

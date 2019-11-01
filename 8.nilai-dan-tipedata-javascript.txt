@@ -1,0 +1,12 @@
+bit / binnary digit adalah satuan terkecil pada  komputer kita
+transisior pada komputer saat dialiri listrik terjadi bit 1, dan 0 terjadi ketika tidak dialiri listrik.
+
+macam-macam tipe data pada javascript/ peran bit pada computer
+-number
+-string
+-boolean
+-object
+-function
+-undefined
+
+

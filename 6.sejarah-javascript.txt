@@ -1,0 +1,16 @@
+sejarah javascript
+NCSA / National Center Of Supercomputing Application
+University of illinois at urbana-champaign
+
+mosaic browser - 1992, merupakan webbrwser paling popular yang mendukung tag image, lalu membuat perusahaan netscape communicator. kemudian membuat webbrowser lagi dengan nama netscape navigator.
+beberapa waktu kemudian mendirikan webbrowser lagi, java+scheme+self = mocha
+lalu diubah nama menjadi livescript browser.
+netscape dan sun microsystem untuk menciptakan javascript.
+pada tahun 1996 javascript di standarkan.
+menurut douglas crockford "javascript, jscript,ecmascript 3 silly names for 1 silly language"
+
+
+== perkembangan ecmascript ==
+1997 es1, 1998 es2, 1999 es3 - launch
+2005 ajax, 2008 es4 gagal lalu menjadi harmony, 2009 es5.
+2015 es6, 2016 es7.
