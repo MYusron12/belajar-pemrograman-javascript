@@ -1,0 +1,29 @@
+program adalah kumpulan atau serangkaian instruksi.
+program adalah urutan instruksi terstruktur yang dirancang agar komputer dapat berprilaku sesuai dengan ketentuan, dengan tujuan untuk menyelesaikan sebuah pekerjaan.
+
+#instruksi untuk komputer
+-instruksi harus sederhana, instruksi harus terstruktur.
+-memberi perintah pada komputer
+-melalui bahasa pemrograman
+-memecah tugas jadi instruksi sederhana
+
+#contoh instruksi sederhana
+-melakukan operasi matematika pada komputer
+-menampilkan tulisan ke layar
+-mengubah ukuran,posisi atau warna dari sbeuah pixel
+
+#perilaku komputer
+-komputer tidak begitu pintar, yang pintar adalah aplikasinya karena komputer penurut.
+-komputer tidak kenal lelah.
+-berikan instruksi yang benar,
+-instruksi yang diberikan pada komputer dinamakan statement
+
+#statement adalah perintah komputer dalam bahasa pemrograman.
+
+#contoh statement pada bahasa pemrograman
+//pascal umur :=30
+//javascript var umur = 30
+//php $umur = 30;
+//cobol MOVE 30 TO umur
+
+

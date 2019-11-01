@@ -1,0 +1,10 @@
+bagaimana menterjemahkan source code ke bahasa mesin
+compiler adalah program dibuat lalu di compile dan mengahsilkan file exe, saat program dijalankan source code tidak terlihat
+kelebihan : siap untuk dijalankan, lebih cepat, source code tidak terlihat
+kekurangan : tidak lintas platform, tidak fleksibel, langkah tambahan
+
+interpreter adalah program dibuat lalu source code di duplikat dan dijalankan program secara realtime
+kelebihan : lintas platform, fleksibel, mudah untuk diuji
+kekurangan : butuh interpreter, lebih lambat, source code mudah diakses.
+
+teknik untuk menggabungkan compiler dan interpreter disebut teknik hybrid.
