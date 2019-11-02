@@ -1,0 +1,53 @@
+variable adalah sebuah tempat atau wadah yang memiliki nama, yang digunakan untuk menyimpan nilai.
+
+pemahaman variable meliputi
+-deklarasi
+-inisialisasi
+-assignment
+
+-deklarasi adalah mendaftarkan variable ke lingkup yang sesuai
+
+-insialisasi adalah menyediakan memori untuk variable
+
+-assignment adalah menetapan nilai yang spesifik kedalam variable
+
+contoh
+var x; // deklarasi & inisialisasi
+x = 20; // assignment
+
+deklarasi variable pada javascript
+var
+let
+const
+
+untuk membuat variable
+var <nama varible>
+
+aturan penulisan nama variable
+-tidak boleh menggunakan spasi
+-boleh mengandung angka tapi tidak boleh di awali dengan angka
+-boleh memisahkan kata dengan _
+
+contoh penulisan variable camel case
+var namaVariablePanjang
+artinya jika variablenya panjang dan terdiri dari 2 kata, maka huruf pertama ditulis kecil dan kata pada huruf selanjutnya ditulis besar
+
+kata yang tidak boleh di tuliskan variable disebut dengan keyword & reserved word
+
+dalam pembuatan variable bisa menggunakan shorthand yaitu sintaks untuk menyingkat variable
+contoh
+var nama = "yusron",
+    umur = 31,
+    lulus = true;
+
+dalam variable ada yg disebut dnegan lingkup variable atau variable scope
+
+
+
+
+
+
+
+
+
+
