@@ -1,0 +1,6 @@
+dalam menuliskan javascript membutuhkan tag <script></script>
+
+cara menuliskan internal di dalam file html
+cara menuliskan external membuat file baru
+
+console.log(); untuk menuliskan sesuatu di web browser pada console
