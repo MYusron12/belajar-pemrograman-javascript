@@ -1,0 +1,72 @@
+operator dalam javascriptsebuah simbol yang digunakan untk melakukan operasi
+
+jenis operator dalam javascriptsebuah
+##opertaor binary
+-aritmatika
+-penugasan
+-perbandingan
+-logika
+-string
+#operator ternary
+-kondisional
+#operator unary
+-typeof
+
+operator binary adalah operator yang membutuhkan 2 operand
+operand1, operator, operand2
+
+operantor unary adalah operator yang membutuhkan 1 operand
+operator, operand
+
+operator ternary adalah operator yang membutuhkan 3 operand
+
+-operator aritmatika pada javascript +, -, *, /, %'modulus
+urutan operasi matematika atau operator presedence
+kukabataku () * / + -
+
+-operator assignment atau penugasan =
+= += -= *= /= %=
+operator penugasan          sama saja dengan
+x += y                      x = x + y
+x -= y                      x = x - y
+x *= y                      x = x * y
+x /= y                      x = x / y
+x %= y                      x = x % y
+
+-operator perbandingan atau comparison
+operator perbandingan               keterangan
+==                                  sama dengan
+!=                                  tidak sama dengan
+===                                 strict sama dengan
+!==                                 strict tidak sama dengan
+>                                   lebih besar dari
+<                                   lebih kecil dari
+>=                                  lebih besar sama dengan
+<=                                  lebih kecil samam dengan
+operator perbandinagn akan menghasilkan nlai true atau false yang kita sebut sebagai boolean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

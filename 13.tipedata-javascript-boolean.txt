@@ -1,0 +1,12 @@
+boolean adalah sebuah tipe data untuk merepresentasikan logika true atau false
+boolean digunakan pada statement pengkondisian untuk menentukan aksi yang berbeda dan mengatur alur kendali program
+true dihasilkan ketika kondisinya benar
+false dihasilkan ketika kondisinya salah
+
+thruty              falsy
+true                false
+non-zero number     0
+"string"            ""
+object              undefined
+arrays              null
+functions           NaN
