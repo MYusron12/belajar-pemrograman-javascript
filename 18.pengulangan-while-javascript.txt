@@ -1,0 +1,22 @@
+pengulangan while
+dengan melakukan pengulangan, kita bisa menampilkan berulang kali
+
+//selama kondisi bernilai true
+while(kondisi) {
+//maka lakukan aksi dalam blok
+    aksi
+}
+
+aturan dalam menuliskan loop pengulangan
+nilai awal
+while(kondisi terminasi) {
+    aksi
+    increment / decrement
+}
+
+var nilaiAwal = 1;
+while(nilaiAwal <= 5) {
+    console.log('hello world!');
+    nilaiAwal++;
+}
+
