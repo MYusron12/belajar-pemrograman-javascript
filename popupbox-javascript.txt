@@ -1,0 +1,20 @@
+popupbox atau dialogbox adalah kotak kecil yang dmunculkan sebagai interaksi dan digunakan agar user nerinteraksi dengan web.
+
+
+
+add 3 buah popupbox
+-alert
+-prompt
+-confirm
+
+alert
+alert('hello world!');
+fungsi alert adalah untuk memunculkan pesan sederhana
+
+prompt
+prompt('masukan nama:');
+fungsi promp untuk memunculkan pesan lalu inputan
+
+confirm
+confirm('kamu yakin??');
+digunakan untuk meminta konfirmasi dari user
