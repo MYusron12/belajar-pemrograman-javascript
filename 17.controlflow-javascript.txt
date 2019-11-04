@@ -1,0 +1,32 @@
+control flow atau alur kendali sebuah program
+normal flow
+apabila program kita memiliki lebiih dari statement, maka statement tersebut akan di eksekusi dari atas ke bawah, atau dari kiri ke kanan.
+
+untuk mengatur control flow` dibutuhkan pengulangan dan pengkondisian
+
+pengulangan
+loop / iteration
+sintaks pengulangan
+for 
+while
+do while
+alert('mulai')
+for(var i = 0; i < 5; i++) {
+    alert('hello world');
+}
+alert('selesai');
+
+pengkondisian
+percabangan
+if
+if .. else
+if .. else if .. else
+switch
+
+sintaks pengkondisian
+var angka = prompt('masukan angka');
+if ( angka % 2 === 0 ) {
+    alert(angka + ' adalah bilangan genap ');
+} else {
+    alert(angka + ' adalah bilangan ganjil ');
+}
