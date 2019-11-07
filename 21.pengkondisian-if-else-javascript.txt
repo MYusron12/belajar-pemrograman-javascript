@@ -1,0 +1,37 @@
+sintaks pengkondisian if else
+
+if(kondisi) {
+    //lakukan kondisi jika bernilai true
+    aksi
+}
+//keluar dari blok jika kondisi bernilai false
+
+contoh
+var angka = 1;
+if(angka === 1) {
+    alert('anda memasukan angka 1');
+}
+
+
+contoh2
+var angka = 3;
+if(angka % 2 == 0) {
+    alert(angka + 'adalah bilangan GENAP');
+} else {
+    alert(angka + 'adalah bilangan GANJIL');
+}
+
+contoh 3
+var angka = prompt('masukan angka:');
+if(angka % 2 == 0) {
+    alert(angka + 'adalah bilangan GENAP');
+} else {
+    alert(angka + 'adalah bilangan GANJIL');
+}
+
+
+
+
+
+
+kondisi bisa di isi dengan operator aritmatika
