@@ -1,0 +1,17 @@
+SWITCH
+
+sintaks switch
+switch(ekspresi) {
+    case "nilai 1":
+        aksi 1
+    [break;]
+    case "niali 2":
+        aksi 2
+    [break;]
+    case "nilai n":
+        aksi n
+    [break;]
+    default:
+        aksi default
+    [break;]
+}
