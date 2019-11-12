@@ -1,0 +1,73 @@
+function adalah kunci utama pada javascript, yang membuat javascript sangat powerfull
+
+function 
+-sebuah sub-program / sub-routine yang dapat dipanggil di bagian lain pada program
+-merupakan struktur dasar pembentuk dari javascript
+-disebut juga sebagai prosedur (kumpulan statement untuk melakukan tugas atau menghitung sebuah nilai)
+-untuk dpat menggunakannya, kita harus membuat terlebih dahulu lalu memanggilnya
+-termasuk kedalam first-class object
+
+kenapa function
+-reusability (dRY : Do Not Repeat Yourself)
+-dekomposisi / abstraksi
+-modularitas
+
+
+kategory function
+-built-in-function (functio yang sudah dibuatkan oleh javascript)
+-user-defined function (function yang dibuat sendiri)
+
+-built-in function
+    -fungsi yang disediakan / dibuat oleh javascript
+    -kita tinggal memanggilnya
+    contoh : - alert();
+            - confirm();
+            -prompt();
+
+-user-defined function
+    -fungsi yang kita buat sendiri
+    -menggunakan keyword function
+    -nama function (optional)
+    -parameter / argument / atau bahan baku yang bisa digunakan 
+        -disimpan dalam ()
+        -boleh ada atau tidak, jika ada boleh lebih dari satu
+        =dipisahkan oleh koma(,)
+    -function body, dibungkus dengan {}
+    -dapat mengembalikan nilai(return value) atau tidak
+
+-membuat user-defined function
+-dengan deklarasi / function declaration
+-dengan ekspresi / function expression
+
+//function declaration
+function jumlahDuaBilangan(a, b) {
+    var total;
+    total = a + b;
+
+    return total;
+}
+
+//function expression
+var jumlahDuaBilangan = function(a, b) {
+    var total;
+    total = a + b;
+
+    return total;
+}
+
+
+struktur function
+keyword
+nama function
+parameter
+function body
+nilai kembali / return value
+
+memanggil function
+alert(jumlahDuaBilangan(1,2));
+
+
+
+
+
+
