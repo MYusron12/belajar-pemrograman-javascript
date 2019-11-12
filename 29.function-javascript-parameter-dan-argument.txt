@@ -1,0 +1,23 @@
+parameter adalah bahan baku dalam function
+
+parameter adalah variable yang ditulis di dalam kurung pada saat function dibuat, digunakan untuk menampung nilai yang dikirim saat function dipanggil.
+
+argumrnt adalah nilai yang dikirimkan ke parameter saat fungsi dipanggil.
+
+                parameter
+function tambah (a, b) {
+    return a + b;
+}
+                   argument
+var coba = tambah ( 5, 10);
+
+
+
+jika parameter lebih sedikit dari argument, maka argument kelebihannya akan diabaikan.
+
+jika parameter lebih banyak dari argument, maka parameter kelebihannya akan diisi dengan nilai undifined
+
+dalam javascript ada yang namanya arguments.
+arguments adalah array yang berisi nilai yang dikirim saat fungsi dipanggil.
+
+array adalah variable yang saki karena bisa menampung lebih dari satu nilai.
