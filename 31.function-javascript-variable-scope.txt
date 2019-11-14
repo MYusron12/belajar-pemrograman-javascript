@@ -1,0 +1,22 @@
+scope adalah bagaimana sebuah variable dapat diakses dalam program
+
+-block scope
+-function scope
+
+block scope
+
+
+
+
+
+
+
+function scope
+var i = 2;
+if( i % 2 == 0 ) {
+    var genap = true;
+}
+
+if( genap ) {
+    console.log('genap !');
+}

@@ -1,0 +1,10 @@
+refactoring adalah sebuah proses mengubah kode agar menjadi lebih baik tanpa mengubah fungsionalitas.
+
+kenapa refactoring
+-readability / kemudahan pembacaan program
+-dry ( dont repeat yourself)
+-testability
+-performance
+-maintainability
+
+refactoring sederhana
