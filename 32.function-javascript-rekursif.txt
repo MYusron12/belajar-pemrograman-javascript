@@ -1,0 +1,18 @@
+rekursif adalah funsi yang memanggil dirinya sendiri
+
+input -> function -> output
+
+
+rekursif harus berakhir dan menghasilkan sebuah nilai
+
+base case kondisi akhir dari rekursif yang menghasilkan nilai
+
+
+semua looping bisa dibuat rekursif, tapi tidak sebaliknya
+
+
+implementtasi rekursif
+-mengganti looping
+-fibonnaci
+-pencarian dan penelusuran pada struktur data list dan tree
+-bahasa pemrograman yang tidak memiliki oengulangan
