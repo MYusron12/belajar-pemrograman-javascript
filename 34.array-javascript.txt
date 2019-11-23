@@ -1,0 +1,67 @@
+array secara umum
+"susunan sistematis dari objek objek yang serupa"
+
+array adalah tipe data yang digunakan untuk mendeskripsikan kumpulan elemen (nilai atau variable) yang tiap tiap elemennya memiliki index.
+
+
+array adalah variable yang lebih sakti
+karena bisa menampung lebih dari satu nilai
+
+contoh
+var hari = 'senin';
+var hari = 'selasa';
+
+
+array var hari = ['senin', 'selasa'];
+
+kenapa array / kenapa kita butuh array?
+- mempermudah pengelolaan nilai / value / data
+    - penelusuran dan pencarian 
+- manajemen memori
+
+
+
+
+
+karakteristik dari array
+- variable jamak yang mempunyai banyak elemen dan diacu dengan nama yang sama
+- kumpulan pasangan key dan nilai
+- key adalah index pada array dengan tipe integer yagn dimulai dai 0
+- array pada javascript bertipe object
+- array apada javascript memiliki fungsi / method length untuk menghitung jumlah elemen didalamanya.
+- elemen pada array boleh memiliki tipe data yang brbeda.
+
+
+
+
+
+
+
+key and value pair
+var binatang = ['kucing','kelinci','monyet','panda','koala','sapi'];
+
+console.log(binatang[4]);
+
+
+
+
+array bertipe object
+console.log(binatang[4]);
+
+
+
+
+
+elemen pada array boleh beda tipe
+var hari = ['senin','selasa','rabu'];
+var mhs = ['sandhika','galih','nofa'];
+var angka = [10,123,2004];
+var myArr = ['teks',2,false];
+var myFunc = function() {
+    alert('hello world');
+};
+var myArr2 = ['teks',2,false,myFunc];
+var myArr3 = ['teks',2,false,myFunc,[4,5,6]];
+
+console.log(myArr3[4][1]);
+

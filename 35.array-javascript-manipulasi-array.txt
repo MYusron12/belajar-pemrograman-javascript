@@ -1,0 +1,9 @@
+manipulas array
+-menambah, emnghapus, menampilkan elemen pada array
+
+
+
+array method
+- length
+- join
+push, pop, shift, unshift.
