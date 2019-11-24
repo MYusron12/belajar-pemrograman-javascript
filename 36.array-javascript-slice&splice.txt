@@ -1,0 +1,5 @@
+array methode
+- length
+- join
+- push, pop, shift, unshift
+- slice, splice

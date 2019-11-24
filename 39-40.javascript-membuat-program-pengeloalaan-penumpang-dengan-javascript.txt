@@ -1,0 +1,36 @@
+penelolaan penumpan
+- penumpang naik
+    - tambahPenumpang()
+- penumpang turun
+    - hapusPenumpang()
+
+function tambahPenumpang()
+2 parameter
+    namaPenumpang
+    array penumpang
+rules :
+- jka angkot kosong, penumoang naik dudk di kursi pertama
+- penumpang berikutnya duduk dikursi selanjtnya secara berurutan
+- jika ada kursi kosong karena penupang turun, penumpang yang naik berikutnya duduk di kursi kosong terlebih dahulu
+- asumsi kursi tidak akan penuh dan aka bertambah jika ada penumpang naik
+- nama penumpang tidak boleh sama utuk menghindari kebungungan ketika nanti penumpang turun.
+
+
+
+
+
+
+
+
+
+
+hapusPenumpang()
+- 2 parameter :
+    - namaPenumpang
+    - array penumpang
+- rules :
+    - jika angkot kosong, tampilkan pesan bahwa angkot kosong
+    - jika ada pemunpang yang namanya sesuai, hapus nama penumpang pada array dengan memberi nilai undefined
+    - jika tidak ada penumpang yang namanya sesuai, tampilkan pesan kesalahannya.
+
+

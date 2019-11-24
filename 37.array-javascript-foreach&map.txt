@@ -1,0 +1,12 @@
+array methode
+- length
+- join
+- push, pop, shift, unshift
+- slice, splice
+- foreach & map
+- sort
+- filter, find
+
+
+method javascript dilihat dari
+developer.mozilla.org
