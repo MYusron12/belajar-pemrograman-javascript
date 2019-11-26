@@ -65,5 +65,4 @@ var hapusPenumpang = function(namaPenumpang, penumpang) {
             }
         }
     }
-
 }

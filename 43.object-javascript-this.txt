@@ -1,0 +1,1 @@
+this adalah sebuah keyword spesial yang secara otomatis didevinisikan pada sebuah function

@@ -1,0 +1,60 @@
+Object pada javascript, semua elemen javascript merupakan object
+
+
+array adalah kumpulan nilai yang memiliki index
+
+devinisi object, adalah kumpulan nilai yang memiliki nama.
+object adalah array yang lebih sakti...
+
+"in javascript, object are king. if you understand object, you understand javascript."
+
+
+
+kenapa harus object
+
+var mahasiswa = {
+    nama : 'yusron',
+    lulus : true,
+    IPSemester : [2,3,4],
+    IPKumulatif : function() {
+        var total = 0;
+        var ips = this.IPSemester;
+        for( var i = 0; i < ips.length; i++ ) {
+            total += ips[i];
+        }
+        return total/ips.length;
+    }
+}
+mahasiswa.IPKumulatif();
+
+
+anatomi object
+variable yang ada dalam object dinamakan prperti
+function yang ada dalam javascript dinamakan method
+
+var orang = {
+    nama : 'yusron',
+    umur : 31,
+    pekerjaan : 'mahasiswa',
+    sapa : function() {
+        return 'hi, nama saya ' + this.nama +
+                ' usia saya ' + this.nama +
+                ' tahun, dan saya adalah seorang ' + this.pekerjaan;
+    }
+}
+
+
+
+
+
+
+
+membuat object
+- object literal
+- function delaration
+- constructor function (keyword new)
+- object.create()
+
+
+
+

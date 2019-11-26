@@ -1,0 +1,10 @@
+latihan menggunakan object
+
+//pengelolaan angkot 
+- sopir
+- trayek
+- kas
+- penumpang
+    - penumpang naik
+    - penumpang turun
+    
