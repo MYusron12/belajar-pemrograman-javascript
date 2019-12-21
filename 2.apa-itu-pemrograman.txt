@@ -27,3 +27,11 @@ program adalah urutan instruksi terstruktur yang dirancang agar komputer dapat b
 //cobol MOVE 30 TO umur
 
 
+kesimpulan
+apa itu pemrograman
+pemrograman adalah 
+- cara kita untuk memberikan instruksi yang simpel dan terstruktur pada komputer.
+- instruksi yang kita berikan harus benar dan masuk akal.
+- instruksi yang kita berikan harus sesuai dengan aturan pada bahasa pemrograman tertentu.
+
+

@@ -3,11 +3,11 @@ alasan memilih javascript
 - hanya butuh web browser.
 - tidak perlu melakukan langkah tambahan untuk kofigurasi
 
-javascript adalah bahasa high level language(bahasa yang ekat dengan manusia)
+javascript adalah bahasa high level language(bahasa yang dekat dengan manusia)
 
 scripting language, javascript dibuat untuk berinteraksi dengan web.
 
-javascript adalah categiry untyped. untyped adalah bahasa pemrograman yang bisa menggunakan berbagai macam variable.
+javascript adalah category untyped. untyped adalah bahasa pemrograman yang bisa menggunakan berbagai macam variable.
 
 javascript adalah bhs pemrograman yg harus dijalankan dengan interpreted.
 
@@ -17,7 +17,7 @@ yang bisa dilakukan oleh javascript adalah
 - client-side web development
     -native javascript / vanilla javascript / javascript biasa tanpa framework
     -jquery
-    -angular, react, e,ber, backbone...
+    -angular, react, ember, backbone...
 - server-side development
     -nodejs
     -expressJS

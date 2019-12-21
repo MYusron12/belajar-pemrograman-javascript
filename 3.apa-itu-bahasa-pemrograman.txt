@@ -3,13 +3,17 @@ contoh bahasa pemrograman, C, C++, C#, Java, Javascript, PHP, Python, Objective-
 
 bahasa komputer yang dipahami adalah bahasa mesin.
 bahasa pemrograman diciptakan untuk menjembatani antara manusia dengan komputer.
-bahasa mesin meliputi bahasa assembly, bahasa tingkat rendah (low level language) dan bahasa tingak tinggi atau bahasa yang dekat dengan manusia (high level langauge) 
+bahasa mesin meliputi bahasa assembly (bahasa yang paling dekat dengan bahasa mesin) atau bahasa tingkat rendah (low level language), dan bahasa tingak tinggi atau bahasa yang dekat dengan manusia (high level langauge) 
+
+
 
 untuk mulai menulis program (source code)
--bagaimana menulis source code
--bagaimana source code dikonversi ke bahasa mesin
+-bagaimana menulis source code (nulisnya dimana, menggunakan aplikasi apa, dan bagaimana nulisnya)
+-bagaimana source code dikonversi ke bahasa mesin (mekanisme dibalik konversi bahasa mesin)
 -bagaimana cara mengeksekusi source code
 
+
+
 #menulis source code
--bahasa pemrograman ditulis dengan teks sederhana plain text dengan menambahkan ekstension
+-bahasa pemrograman ditulis dengan teks sederhana plain text dengan menambahkan ekstension (notepad)
 -menulis source code menggunakan code editor atau IDE(integrated development environment)

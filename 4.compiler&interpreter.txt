@@ -1,9 +1,11 @@
 bagaimana menterjemahkan source code ke bahasa mesin
-compiler adalah program dibuat lalu di compile dan mengahsilkan file exe, saat program dijalankan source code tidak terlihat
+compiler adalah program dibuat lalu di compile dan mengahsilkan file exe, saat program dijalankan source code tidak terlihat.
+contoh : komputer A dan komputer B, A akan membuat program lalu diberikna ke B. A akan membuat source code, A akan mengcompile source code tersebut menggunakan compiler, setelah dikompilasi akan menghasilakn file baru dan file kompilasinya diberikan ke B, file kompilasi tersebut berupa file executable/program yang bisa di eksekusi atau file exe, B tidak perlu menjalankan compiler lagi, dan B tidak akan pernah melihat source code dari A, B hanya menjalankan program saja.
 kelebihan : siap untuk dijalankan, lebih cepat, source code tidak terlihat
 kekurangan : tidak lintas platform, tidak fleksibel, langkah tambahan
 
-interpreter adalah program dibuat lalu source code di duplikat dan dijalankan program secara realtime
+interpreter adalah program dibuat lalu source code di duplikat dan dijalankan program secara realtime.
+contoh : Komputer A dan Komputer B, A membuat source code, A tidak akan melakukan compile, melainkan A akan memberikan source codenya ke B, B harus menggunakan interpreter untuk menerjemahkan program A, lalu B menjalankan interpreternya sekaligus menjalankan programmnya.
 kelebihan : lintas platform, fleksibel, mudah untuk diuji
 kekurangan : butuh interpreter, lebih lambat, source code mudah diakses.
 
